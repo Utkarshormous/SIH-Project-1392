@@ -1,0 +1,362 @@
+{
+    "companies": [
+      {
+        "name": "Apple",
+        "models": [
+            {
+              "name": "iPad 10th Gen",
+              "year": 2022,
+              "specs": {
+                "Ram": "4 GB",
+                "Memory": "64 GB"
+              },
+              "description": "All‑screen design 27.69-centimeter (10.9-inch)",
+              "url": "https://www.apple.com/v/ipad-10.9/b/images/meta/ipad-10-9_specs__d56fdtamcvgy_og.png"
+            },            
+             {
+               "name": "iPad Air 5th Gen",
+               "year": 2022,
+               "specs": {
+                 "Ram": "8 GB",
+                 "Memory": "64 GB"
+              },
+               "description": "10.9-inch 2360 by 1640 Liquid Retina Display",
+               "url": "https://www.apple.com/v/ipad-air/t/images/meta/ipad-air_specs__lfl4e10u9pmm_og.png?202309100303"
+           },            
+            {
+              "name": "iPad 9th Gen",
+              "year": 2021,
+              "specs": {
+                "Ram": "3 GB",
+                "Memory": "64 GB"
+              },
+              "description": "10.2 inches (260 mm) 2160 × 1620 px (264 ppi)",
+              "url": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP849/sp849-ipad-9gen-480.png"
+            },            
+            {
+              "name": "iPad Mini 6th Gen",
+              "year": 2021,
+              "specs": {
+                "Ram": "4 GB",
+                "Memory": "256 GB"
+            },
+              "description": "8.3 inches Liquid Retina IPS LCD",
+              "url": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP850/sp850-ipad-mini-6gen-480.png"
+            },           
+            {
+              "name": "iPad 8th Gen",
+              "year": 2020,
+              "specs": {
+                "Ram": "3 GB",
+                "Memory": "32 GB"
+              },
+              "description": "10.9-inch screen with 1620 by 2160 pixels",
+              "url": "https://p.kindpng.com/picc/s/722-7229636_ipad-7th-generation-hd-png-download.png"
+            },
+            {
+              "name": "iPad 7th Gen",
+              "year": 2019,
+              "specs": {
+                "Ram": "3 GB",
+                "Memory": "32 GB"
+              },
+              "description": "10.2-inch Retina display",
+              "url": "https://www.pngitem.com/pimgs/m/608-6082515_ipad-7th-generation-32gb-hd-png-download.png"
+            } ,            
+            {
+              "name": "iPad 6th Gen",
+              "year": 2018,
+              "specs": {
+                "Ram": "2 GB",
+                "Memory": "32 GB",
+                "display": "9.7 inches IPS LCD"
+              },
+              "description": "A reliable and affordable iPad.",
+              "url": "https://www.nicepng.com/png/detail/593-5937219_ipad-ipad-6th-generation-128gb.png"
+            }                     
+          ]  
+      },
+      {
+        "name":"Samsung",
+        "models":[
+            {
+                "name": "Galaxy Tab S9 Ultra",
+                "year": 2023,
+                "specs": {
+                  "Ram": "12 GB",
+                  "Memory": "256 GB"
+                },
+                "description": "Dynamic AMOLED 2X 14.6 inches",
+                "url": "https://images.samsung.com/is/image/samsung/p6pim/in/2307/gallery/in-galaxy-tab-s9-5g-x716-sm-x716bzaainu-537319978"
+            },
+            {
+                "name": "Galaxy Tab S9 Plus",
+                "year": 2023,
+                "specs": {
+                  "Ram": "12 GB",
+                  "Memory": "256 GB"
+                },
+                "description": "Dynamic AMOLED 2X 14.6 inches",
+                "url": "https://images.samsung.com/is/image/samsung/p6pim/in/2307/gallery/in-galaxy-tab-s9-5g-x716-sm-x716bzaainu-537319978"
+            },
+            {
+                "name": "Galaxy Tab S6 Lite",
+                "year": 2022,
+                "specs": {
+                  "Ram": "4 GB",
+                  "Memory": "128 GB"
+                },
+                "description": "26.31 cm (10.4 inch) S-Pen in Box, Slim and Light",
+                "url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/248/2485087899981190761/jpeg-600/G03.jpg?modifiedAt=1"
+            },
+            {
+                "name": "Galaxy Tab A8",
+                "year": 2021,
+                "specs": {
+                  "Ram": "4 GB",
+                  "Memory": "64 GB"
+                },
+                "description": "10.5 inches Display with Calling",
+                "url": "https://image-us.samsung.com/SamsungUS/home/mobile/tablets/5102022/GalaxyTabA8_DarkGray_Combo.png?$product-details-jpg$"
+            },
+            {
+                "name": "Galaxy Tab S7",
+                "year": 2020,
+                "specs": {
+                  "Ram": "6 GB",
+                  "Memory": "128 GB"
+                },
+                "description": "11-inch 2560 × 1600 120Hz TFT LCD",
+                "url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/248/2485095050522924205/jpeg-600/G03.jpg?modifiedAt=1"
+            },
+            {
+                "name": "Galaxy Tab S5e",
+                "year": 2019,
+                "specs": {
+                  "Ram": "6 GB",
+                  "Memory": "128 GB"
+                },
+                "description": "10.5-inch display with 1600 x 2560 pixel",
+                "url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/248/2485081425703867416/jpeg-600/G03.jpg?modifiedAt=1"
+           },
+           {
+            "name": "Galaxy Tab S3",
+            "year": 2017,
+            "specs": {
+              "Ram": "4 GB",
+              "Memory": "32 GB"
+            },
+            "description": "9.7 inches Super AMOLED",
+            "url": "https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_Tab_S3_SM-T825/4_zu_3_teaser.jpg"
+          },
+          {
+            "name": "Galaxy Tab S4",
+            "year": 2018,
+            "specs": {
+              "Ram": "4 GB",
+              "Memory": "64 GB"
+            },
+            "description": "10.5 inches Super AMOLED",
+            "url": "https://www.nicepng.com/png/detail/285-2855126_samsung-galaxy-tab-s4-64gb-tablet-samsung-galaxy.png"
+          }             
+        ]
+      },
+      {
+        "name":"Lenovo",
+        "models":[
+            {
+                "name": "Lenovo Tab M9",
+                "year": 2023,
+                "specs": {
+                  "Ram": "3 GB",
+                  "Memory": "32 GB"
+                },
+                "description": "9.00-inch touchscreen with 800x1340 pixels",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcFKsgM5gdXhu20SBH5x72zCoxQgE8E8XzoFuiMQT--6mFJvfMhFjWtXbTobk_soZctOs&usqp=CAU"
+            },
+            {
+                "name": "Lenovo Tab M10 Gen 3",
+                "year": 2022,
+                "specs": {
+                  "Ram": "4 GB",
+                  "Memory": "64 GB"
+                },
+                "description": "10.1-inch Full HD Display",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbY5lAGFLzs365FL8_wXYAp6BC9QFmra951VmcikzklVwspK7hWo7YC2uYNz1D2HG5Oxw&usqp=CAU"
+           },
+           {
+            "name": "Lenovo Tab P12 Pro",
+            "year": 2021,
+            "specs": {
+              "Ram": "6 GB",
+              "Memory": "128 GB"
+            },
+            "description": "12.60-inch touchscreen display with 2560x1600 resolution",
+            "url": "https://fdn2.gsmarena.com/vv/pics/lenovo/lenovo-tab-p12-pro-1.jpg"
+          },
+          {
+            "name": "Lenovo Tab P11 Plus",
+            "year": 2021,
+            "specs": {
+              "Ram": "4 GB",
+              "Memory": "64 GB"
+            },
+            "description": "11.00-inch touchscreen display with 2000x1200 resolution",
+            "url": "https://static-media.laptopoutlet.co.uk/catalog/product/c/8/c84b73dcf78b9b019d1ea3ac5717a542.jpg"
+          },
+          {
+            "name": "Lenovo Tab K10",
+            "year": 2021,
+            "specs": {
+              "Ram": "4 GB",
+              "Memory": "64 GB"
+            },
+            "description": "10.3 Inch (26.16 cm) Full HD Display",
+            "url": "https://i.gadgets360cdn.com/products/large/lenovo-tab-k10-800x800-1635147826.jpg"
+          },
+          {
+            "name": "Lenovo Tab M7 (3rd Gen)",
+            "year": 2021,
+            "specs": {
+              "Ram": "2 GB",
+              "Memory": "32 GB"
+            },
+            "description": "7 inch (17.7 cm) Wi-fi Only",
+            "url": "https://fdn2.gsmarena.com/vv/pics/lenovo/lenovo-tab-m7-3-1.jpg"
+          },
+          {
+            "name": "Lenovo Tab M8",
+            "year": 2019,
+            "specs": {
+              "Ram": "3 GB",
+              "Memory": "32 GB"
+            },
+            "description": "8.00-inch touchscreen display with 1280x800 resolution",
+            "url": "https://www.fonewalls.com/wp-content/uploads/Lenovo-Tab-M8-HD.jpg"
+          }           
+        ]
+      },
+      {
+        "name":"Realme",
+        "models":[
+            {
+                "name": "Realme Pad Mini",
+                "year": 2022,
+                "specs": {
+                  "Ram": "4 GB",
+                  "Memory": "64 GB"
+                },
+                "description": "8.70-inch touchscreen with 800x1340 resolution",
+                "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/04/realme-Pad-Mini-1024x856.jpg"
+            },
+            {
+                "name": "Realme Pad 2",
+                "year": 2023,
+                "specs": {
+                  "Ram": "6 GB",
+                  "Memory": "128 GB"
+                },
+                "description": "11.5 inches PS LCD with 1B colors",
+                "url": "https://gizchina.it/wp-content/uploads/2023/06/Realme-pad-2.jpg"
+             },
+             {
+                "name": "Realme Pad LTE",
+                "year": 2021,
+                "specs": {
+                  "Ram": "4 GB",
+                  "Memory": "64 GB"
+                },
+                "description": "26.4cm (10.4 inch) WUXGA",
+                "url": "https://www.notebookcheck.net/fileadmin/Notebooks/realme/Pad/4_zu_3_RealmePad.jpg"
+              },
+              {
+                "name": "Realme Pad X",
+                "year": 2022,
+                "specs": {
+                  "Ram": "4 GB",
+                  "Memory": "64 GB"
+                },
+                "description": "10.95 inches IPS LCD Dual SIM",
+                "url": "https://www.fonewalls.com/wp-content/uploads/2022/05/Realme-Pad-X.jpg"
+              }
+        ]
+      },
+      {
+        "name":"Acer",
+        "models":[
+            {
+                "name": "Acer One 10",
+                "year": 2023,
+                "specs": {
+                  "Ram": "3 GB",
+                  "Memory": "32 GB"
+                },
+                "description": "10.10-inch touchscreen display with 1920x1200 resolution",
+                "url": "https://www.nicepng.com/png/detail/294-2943561_white-android-tablet-png-iconia-one-10-acer.png"
+            },
+            {
+                "name": "Acer One 8",
+                "year": 2023,
+                "specs": {
+                  "Ram": "2 GB",
+                  "Memory": "32 GB"
+                },
+                "description": "8.70-inch touchscreen with 1340x800 resolution",
+                "url": "https://cdn.gadgets360.com/content/assets/products/acer-iconia-one-8-b1-820-2594_960X480_1429878272.jpg?downsize=*:360"
+           },
+           {
+            "name": "Acer Chromebook Tab 510",
+            "year": 2022,
+            "specs": {
+              "Ram": "4 GB",
+              "Memory": "64 GB"
+            },
+            "description": "10.10-inch touchscreen with 1200x1920 resolution",
+            "url": "https://liliputing.com/wp-content/uploads/2022/05/510_03.jpg"
+          },
+          {
+            "name": "Acer Chromebook Tab 10",
+            "year": 2018,
+            "specs": {
+              "Ram": "4 GB",
+              "Memory": "32 GB"
+            },
+            "description": "9.70-inch touchscreen display with 2048x1536 resolution",
+            "url": "https://images.acer.com/is/image/acer/Chromebook-tab-10-design_KSP-2:Static-KSP-Image-Right-Left-S"
+          },
+          {
+            "name": "Acer Iconia One 8 (B1-850)",
+            "year": 2016,
+            "specs": {
+              "Ram": "1 GB",
+              "Memory": "16 GB"
+            },
+            "description": "8.00-inch display with 720x1280 resolution",
+            "url": "https://www.devicespecifications.com/images/model/8649392f/320/main.jpg"
+          },
+          {
+            "name": "Acer Iconia Talk S",
+            "year": 2016,
+            "specs": {
+              "Ram": "2 GB",
+              "Memory": "16 GB"
+            },
+            "description": "7.00-inch display with 1280x800 resolution",
+            "url": "https://cdn.ndtv.com/tech/images/acer_iconia_talk_s_a1_724.jpg"
+          },
+          {
+            "name": "Acer Predator 8",
+            "year": 2015,
+            "specs": {
+              "Ram": "2 GB",
+              "Memory": "16 GB"
+            },
+            "description": "8.00-inch display with 1900x1200 resolution",
+            "url": "https://drop.ndtv.com/TECH/product_database/images/93201521601PM_635_acer_predator_8.jpeg"
+          }
+            
+        ]
+      }
+      
+    ]
+  }

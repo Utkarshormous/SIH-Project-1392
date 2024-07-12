@@ -1,0 +1,21 @@
+.Input {
+  padding: 10px 50px;
+  font-family: "Nunito", sans-serif;
+  margin: 10px 10px;
+  border: none;
+  border-radius: 5px;
+}
+.Search {
+  font-family: "Nunito", sans-serif;
+  padding: 10px 20px;
+  margin-left: 10px;
+  border-radius: 5px;
+  transition: 200ms;
+  cursor: pointer;
+  border: none;
+  &:hover {
+    color: white;
+    background-color: rgb(79, 183, 73);
+    transform: scale(1.2);
+  }
+}

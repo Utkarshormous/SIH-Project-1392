@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+  &:hover {
+    color: rgb(0, 128, 0);
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.outer-container {
+  display: flex;
+  font-family: "MuseoModerno", cursive;
+  font-family: "Poppins", sans-serif;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.inner-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 450px;
+  height: 500px;
+  background-color: #edf5e1;
+  text-align: center;
+  border: 1px solid #ccc;
+  background: transparent;
+  /* box-shadow: 0px 40px 80px rgb(95, 200, 200); */
+  border-radius: 50px;
+}
+
+.signin {
+  width: 391px;
+  border-top-left-radius: 46px;
+  border-top-right-radius: 47px;
+  background-color: #6bd4be;
+  padding: 30px;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 4px;
+  opacity: 1;
+}
+.input-field {
+  position: relative;
+  margin-top: 47px;
+}
+.input-field input {
+  width: 350px;
+  height: 60px;
+  border-radius: 23px;
+  font-size: 18px;
+  padding: 0 15px;
+  border: 2px solid #fff;
+  background: transparent;
+  color: #fff;
+  outline: none;
+}
+.input-field label {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 19px;
+  pointer-events: none;
+  transition: 0.3s;
+}
+input:focus {
+  border: 2px solid #18ffff;
+}
+input:focus ~ label,
+input:valid ~ label {
+  top: 0;
+  left: 15px;
+  font-size: 16px;
+  padding: 0 2px;
+  background: #fff;
+}
+
+.input-field1 {
+  position: relative;
+  margin-top: 47px;
+}
+.input-field1 input {
+  width: 350px;
+  height: 60px;
+  border-radius: 23px;
+  font-size: 18px;
+  padding: 0 15px;
+  border: 2px solid #fff;
+  background: transparent;
+  color: #fff;
+  outline: none;
+}
+.input-field1 label {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 19px;
+  pointer-events: none;
+  transition: 0.3s;
+}
+input:focus {
+  border: 2px solid #18ffff;
+}
+input:focus ~ label,
+input:valid ~ label {
+  top: 0;
+  left: 15px;
+  font-size: 16px;
+  padding: 0 2px;
+  background: #060b23;
+}
+.remember-forgot {
+  color: #fff;
+  width: 420px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.remember-forgot a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.remember-forgot a:hover {
+  text-decoration: underline;
+}
+.btn {
+  width: 50%;
+  height: 45px;
+  background: #fff;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 24px;
+  transition: background-color 0.3s, box-shadow 0.4s;
+}
+
+.btn:hover {
+  background-color: #6bd4be;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.register-link {
+  font-size: 14.5px;
+  color: #fff;
+  margin-top: 21px;
+}
+.Imageback {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  z-index: -2;
+}

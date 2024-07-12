@@ -1,0 +1,699 @@
+{
+    companies:[
+        {
+            name: "Canon",
+            models: [
+                {
+                    name: "Canon EOS 1DX Mark III",
+                    year: 2020,
+                    specs: {
+                        Storage: "512GB",
+                        Lens: "Canon EF 24-70mm f/2.8L",
+                        Megapixels: 20
+                    },
+                    description: "A high-end DSLR designed for professional photographers with 20 megapixels and 4K video capabilities.",
+                    image:"https://www.the-digital-picture.com/Images/Review/Canon-EOS-1D-X-Mark-III.jpg"
+                },
+                {
+                    name: "Canon PowerShot G7 X Mark III",
+                    year: 2019,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Canon 4.2x Optical Zoom Lens",
+                        Megapixels: 20
+                    },
+                    description: "A compact digital camera known for its exceptional image quality and 4K video recording.",
+                    image:"https://www.justcanon.in/cdn/shop/products/cdwcArtboard-1.png?v=1659021246"
+                },
+                {
+                    name: "Canon EOS Rebel T8i",
+                    year: 2020,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Canon EF-S 18-55mm f/4-5.6 IS STM",
+                        Megapixels: 24
+                    },
+                    description: "An entry-level DSLR with advanced features, ideal for amateur photographers.",
+                    image:"https://m.media-amazon.com/images/I/81AUQk0y5vL.jpg"
+                },
+                {
+                    name: "Canon EOS 5D Mark IV",
+                    year: 2016,
+                    specs: {
+                        Storage: "256GB",
+                        Lens: "Canon EF 24-105mm f/4L IS II USM",
+                        Megapixels: 30
+                    },
+                    description: "A full-frame DSLR with excellent low-light performance and 4K video recording.",
+                    image:"https://c8.alamy.com/comp/RBR15D/canon-5d-mark-iv-dslr-camera-isolated-on-white-background-RBR15D.jpg"
+                },
+                {
+                    name: "Canon EOS M50",
+                    year: 2018,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Canon EF-M 15-45mm f/3.5-6.3 IS STM",
+                        Megapixels: 24
+                    },
+                    description: "A mirrorless camera known for its compact design and versatile shooting options.",
+                    image:"https://i1.adis.ws/i/canon/eos-m50-range_800x800_1d7c02fdb9e24ec9823425661f83d3ba?$prod-gallery-1by1-jpg$"
+                },
+                {
+                    name: "Canon PowerShot SX740 HS",
+                    year: 2018,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Canon 40x Optical Zoom Lens",
+                        Megapixels: 20
+                    },
+                    description: "A compact superzoom camera with a powerful lens for capturing distant subjects."
+                    image:"https://i1.adis.ws/i/canon/2956C011_EC-Silver_03/canon-powershot-sx740-hs-silver-product-front-view-with-flash-open?w=800&bg=gray95"
+                },
+                {
+                    name: "Canon EOS 90D",
+                    year: 2019,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Canon EF-S 18-135mm f/3.5-5.6 IS USM",
+                        Megapixels: 32
+                    },
+                    description: "An advanced DSLR camera with high-resolution imaging and fast autofocus.",
+                    image:"https://www.the-digital-picture.com/Images/Review/Canon-EOS-90D.jpg"
+                },
+                {
+                    name: "Canon PowerShot G1 X Mark III",
+                    year: 2017,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Canon 3x Optical Zoom Lens",
+                        Megapixels: 24
+                    },
+                    description: "A premium compact camera with DSLR-like capabilities.",
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQ-6_iJt0k6X1QpebzlQ_GTJ1cyGExawfIX_apGqgbA&s"
+                },
+                {
+                    name: "Canon EOS R6",
+                    year: 2020,
+                    specs: {
+                        Storage: "256GB",
+                        Lens: "Canon RF 24-105mm f/4L IS USM",
+                        Megapixels: 20
+                    },
+                    description: "A mirrorless camera designed for both photography and videography.",
+                    image:"https://cloudfront.slrlounge.com/wp-content/uploads/2020/02/Canon-EOS-R5-1200x675.png"
+                },
+                {
+                    name: "Canon EOS 7D Mark II",
+                    year: 2014,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Canon EF-S 18-135mm f/3.5-5.6 IS STM",
+                        Megapixels: 20
+                    },
+                    description: "A durable and high-performance APS-C DSLR camera.",
+                    image:"https://www.photoreview.com.au/wp-content/uploads/2018/08/eos_7d_mark_ii_18-135mm.jpg"
+                }
+            ]
+        },
+        {
+            name: "Nikon",
+            models: [
+                {
+                    name: "Nikon D850",
+                    year: 2017,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Nikon AF-S 24-70mm f/2.8E ED VR",
+                        Megapixels: 45
+                    },
+                    description: "A high-resolution full-frame DSLR camera known for its image quality and versatility.",
+                    image:"https://www.recordinglimits.com/assets/img/16x9/nikon-d850.png"
+                },
+                {
+                    name: "Nikon Z6",
+                    year: 2018,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Nikon Z 24-70mm f/4 S",
+                        Megapixels: 24
+                    },
+                    description: "A mirrorless camera designed for enthusiasts and professionals, offering 4K video and excellent low-light performance.",
+                    image:"https://www.pngitem.com/pimgs/m/112-1129375_nikon-mirrorless-z6-hd-png-download.png"
+                },
+                {
+                    name: "Nikon D750",
+                    year: 2014,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Nikon AF-S 50mm f/1.8G",
+                        Megapixels: 24
+                    },
+                    description: "A full-frame DSLR camera known for its balance of performance and affordability.",
+                    image:"https://atlas-content-cdn.pixelsquid.com/stock-images/nikon-d750-camera-N4VWed3-600.jpg"
+                },
+                {
+                    name: "Nikon Coolpix P1000",
+                    year: 2018,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Nikon 125x Optical Zoom Lens",
+                        Megapixels: 16
+                    },
+                    description: "A bridge camera with an impressive zoom range, ideal for wildlife and telephoto photography.",
+                    image:"https://www.pngitem.com/pimgs/m/6-67177_nikon-coolpix-p1000-png-transparent-png.png"
+                },
+                {
+                    name: "Nikon Z7",
+                    year: 2018,
+                    specs: {
+                        Storage: "256GB",
+                        Lens: "Nikon Z 24-70mm f/2.8 S",
+                        Megapixels: 45
+                    },
+                    description: "A high-resolution mirrorless camera designed for professional photographers and videographers.",
+                    image:"https://atlas-content-cdn.pixelsquid.com/assets_v2/244/2445865956241577943/jpeg-600/G03.jpg?modifiedAt=1"
+                },
+                {
+                    name: "Nikon D5600",
+                    year: 2016,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Nikon AF-P DX 18-55mm f/3.5-5.6G VR",
+                        Megapixels: 24
+                    },
+                    description: "An entry-level DSLR camera with a compact design and user-friendly features.",
+                    image:"https://www.ephotozine.com/articles/nikon-d5600-dslr-review-30499/images/highres-Nikon-D5600-DSLR-2_1485175105.jpg"
+                },
+                {
+                    name: "Nikon Coolpix B600",
+                    year: 2019,
+                    specs: {
+                        Storage: "16GB",
+                        Lens: "Nikon 60x Optical Zoom Lens",
+                        Megapixels: 16
+                    },
+                    description: "A superzoom compact camera with a versatile lens for travel and everyday photography.",
+                    image:"https://www.ephotozine.com/articles/nikon-coolpix-b600-review-33538/images/highres-Nikon-Coolpix-B600-2_1556632344.jpg"
+                },
+                {
+                    name: "Nikon Z50",
+                    year: 2019,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Nikon Z DX 16-50mm f/3.5-6.3 VR",
+                        Megapixels: 20
+                    },
+                    description: "A compact mirrorless camera designed for content creators and vloggers.",
+                    image:"https://www.designinfo.in/wp-content/uploads/nc/p/5/3/2/5/7/53257-optimized.jpg"
+                },
+                {
+                    name: "Nikon D7200",
+                    year: 2015,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Nikon AF-S DX 18-140mm f/3.5-5.6G ED VR",
+                        Megapixels: 24
+                    },
+                    description: "An enthusiast-level DSLR camera with advanced features and a versatile zoom lens.",
+                    image:"https://961souq.com/cdn/shop/files/Nikon-D7200-DSLR-Camera-with-18-140mm-Lens2.jpg?v=1685962755"
+                },
+                {
+                    name: "Nikon Coolpix A1000",
+                    year: 2019,
+                    specs: {
+                        Storage: "16GB",
+                        Lens: "Nikon 35x Optical Zoom Lens",
+                        Megapixels: 16
+                    },
+                    description: "A compact travel camera with a powerful zoom lens and 4K UHD video recording.",
+                    image:"https://images-cdn.ubuy.co.in/63ae0d2d97d25f0a0518d752-nikon-coolpix-a1000-35x-4k-wi-fi-digital.jpg"
+                }
+            ]
+        },
+        {
+            name: "Sony",
+            models: [
+                {
+                    name: "Sony Alpha A7 III",
+                    year: 2018,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Sony FE 24-105mm f/4 G OSS",
+                        Megapixels: 24
+                    },
+                    description: "A full-frame mirrorless camera known for its high-resolution sensor and 4K video capabilities.",
+                    image:"https://www.the-digital-picture.com/Images/Review/Sony-a7-III.jpg"
+                },
+                {
+                    name: "Sony Cyber-shot RX100 VII",
+                    year: 2019,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Sony 24-200mm f/2.8-4.5 Zeiss Vario-Sonnar T*",
+                        Megapixels: 20
+                    },
+                    description: "A compact premium camera with a versatile zoom range and advanced autofocus features.",
+                    image:"https://www.sony.co.in/image/fa5e09f443737954476853d67fb65a13?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320"
+                },
+                {
+                    name: "Sony Alpha A6400",
+                    year: 2019,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Sony E 18-135mm f/3.5-5.6 OSS",
+                        Megapixels: 24
+                    },
+                    description: "An APS-C mirrorless camera designed for fast and precise focusing, suitable for both photography and video.",
+                    image:"https://www.pngitem.com/pimgs/m/189-1891811_sony-a6400-16-50mm-hd-png-download.png"
+                },
+                {
+                    name: "Sony Cyber-shot HX99",
+                    year: 2018,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Sony 28x Optical Zoom Lens",
+                        Megapixels: 18
+                    },
+                    description: "A compact superzoom camera with a pocket-sized design and a wide zoom range.",
+                    image:"https://www.sony-asia.com/image/dec28ab731dad845e5e299340ac98cd4?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320"
+                },
+                {
+                    name: "Sony Alpha A7R IV",
+                    year: 2019,
+                    specs: {
+                        Storage: "256GB",
+                        Lens: "Sony FE 24-70mm f/2.8 GM",
+                        Megapixels: 61
+                    },
+                    description: "A high-resolution full-frame mirrorless camera with exceptional image quality.",
+                    image:"https://alphauniverseglobal.media.zestyio.com/Alpha-Universe-ILCE-7RM4_-a7R-IV-_FE85F14GM_right.jpg"
+                },
+                {
+                    name: "Sony Cyber-shot WX350",
+                    year: 2014,
+                    specs: {
+                        Storage: "16GB",
+                        Lens: "Sony 20x Optical Zoom Lens",
+                        Megapixels: 18
+                    },
+                    description: "A compact point-and-shoot camera with a powerful zoom lens for travel photography.",
+                    image:"https://5.imimg.com/data5/YQ/EA/MY-9700383/selection_250-500x500.png"
+                },
+                {
+                    name: "Sony Alpha A9 II",
+                    year: 2019,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Sony FE 70-200mm f/2.8 GM OSS",
+                        Megapixels: 24
+                    },
+                    description: "A professional full-frame mirrorless camera designed for sports and action photography.",
+                    image:"https://www.sony.co.in/image/395264edc11881a23988aa52b2eaed75?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
+                },
+                {
+                    name: "Sony Cyber-shot RX10 IV",
+                    year: 2017,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Sony 25x Optical Zoom Lens",
+                        Megapixels: 20
+                    },
+                    description: "A premium bridge camera with a fast zoom lens and advanced features.",
+                    image:"https://www.sony.co.in/image/49b521019cac4ba6acdb4a4a74c19b87?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
+                },
+                {
+                    name: "Sony Alpha A6100",
+                    year: 2019,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Sony E 16-50mm f/3.5-5.6 OSS",
+                        Megapixels: 24
+                    },
+                    description: "An entry-level APS-C mirrorless camera with versatile shooting options.",
+                    image:"https://www.sony.co.in/image/7724b023e5b7563538a19dc7ec96a37b?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
+                },
+                {
+                    name: "Sony Cyber-shot RX1R II",
+                    year: 2015,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Sony 35mm f/2 Zeiss Sonnar T*",
+                        Megapixels: 42
+                    },
+                    description: "A compact full-frame digital camera known for its high-resolution sensor and fixed prime lens.",
+                    image:"https://havecamerawilltravel.com/wp-content/uploads/2017/06/sony-rx1rii-camera-02-havecamerawilltravel-com-800x450.jpg"
+                }
+            ]
+        },
+        {
+            name: "Panasonic",
+            models: [
+                {
+                    name: "Panasonic Lumix GH5",
+                    year: 2017,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Panasonic Leica DG Vario-Elmarit 12-60mm f/2.8-4 ASPH Power OIS",
+                        Megapixels: 20
+                    },
+                    description: "A mirrorless camera known for its video capabilities and versatility in a compact form.",
+                    image:"https://www.shutterbug.com/images/17/3-Pansonic%20GH5.jpg"
+                },
+                {
+                    name: "Panasonic Lumix S1R",
+                    year: 2019,
+                    specs: {
+                        Storage: "256GB",
+                        Lens: "Panasonic Lumix S PRO 50mm f/1.4",
+                        Megapixels: 47
+                    },
+                    description: "A full-frame mirrorless camera designed for high-resolution photography and professional use.",
+                    image:"https://www.photographyblog.com/imager/entryimages/78275/panasonic_s1r_review_8c9cd6ffa9b02044a7a3327bc82c5649.jpg"
+                },
+                {
+                    name: "Panasonic Lumix TZ200",
+                    year: 2018,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Leica DC Vario-Elmar 15x Optical Zoom Lens",
+                        Megapixels: 20
+                    },
+                    description: "A compact travel zoom camera with a versatile lens and 4K video recording.",
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBjQ_M4lVgoIDZ_jesMHLz0JZ6JAdn0d30Fn6Q7m_xy-ma4mzbDnnxhJ_ZcxAr-i7JTUs&usqp=CAU"
+                },
+                {
+                    name: "Panasonic Lumix G9",
+                    year: 2017,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Panasonic Leica DG Vario-Elmarit 12-60mm f/2.8-4 ASPH Power OIS",
+                        Megapixels: 20
+                    },
+                    description: "A mirrorless camera designed for photography enthusiasts, offering high-speed shooting and image stabilization.",
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQonKAW0BWD_QdOpSKG-TsKfz4ZljHhfAExKOlqVvvrpmorEpVEo3iz7kGPdl8IeX7Q8&usqp=CAU"
+                },
+                {
+                    name: "Panasonic Lumix LX100 II",
+                    year: 2018,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Leica DC Vario-Summilux 24-75mm f/1.7-2.8",
+                        Megapixels: 17
+                    },
+                    description: "A premium compact camera with manual controls and a large sensor for improved image quality.",
+                    image:"https://www.photographyblog.com/imager/entryimages/75443/panasonic_lumix_lx100_ii_8c9cd6ffa9b02044a7a3327bc82c5649.jpg"
+                },
+                {
+                    name: "Panasonic Lumix FZ300",
+                    year: 2015,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Leica DC Vario-Elmarit 24x Optical Zoom Lens",
+                        Megapixels: 12
+                    },
+                    description: "A bridge camera with a constant aperture zoom lens, suitable for various shooting conditions.",
+                    image:"https://www.recordinglimits.com/assets/img/16x9/panasonic-lumix-fz300.png"
+                },
+                {
+                    name: "Panasonic Lumix S5",
+                    year: 2020,
+                    specs: {
+                        Storage: "256GB",
+                        Lens: "Panasonic Lumix S 20-60mm f/3.5-5.6",
+                        Megapixels: 24
+                    },
+                    description: "A full-frame mirrorless camera known for its video capabilities and compact design.",
+                    image:"https://heyjimmy.in/wp-content/uploads/2023/03/Panasonic-Lumix-S5-II-Mirrorless-Camera-with-20-60mm-Lens-Online-Buy-Mumbai-India.jpg"
+                },
+                {
+                    name: "Panasonic Lumix ZS100",
+                    year: 2016,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Leica DC Vario-Elmarit 10x Optical Zoom Lens",
+                        Megapixels: 20
+                    },
+                    description: "A compact travel zoom camera with a one-inch sensor and 4K video recording.",
+                    image:"https://i.ebayimg.com/images/g/vXwAAOSwiDFYLa3H/s-l640.jpg"
+                },
+                {
+                    name: "Panasonic Lumix GX9",
+                    year: 2018,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Panasonic Lumix G Vario 12-60mm f/3.5-5.6 ASPH Power OIS",
+                        Megapixels: 20
+                    },
+                    description: "A compact mirrorless camera with in-body stabilization and advanced shooting modes.",
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzswaQDvs-7OlSxhdySr_TaenaKWtc_PbwiT6MMjjpMaSlbFBx5PGFfNA7RS7LUR5hPWk&usqp=CAU"
+                },
+                {
+                    name: "Panasonic Lumix G7",
+                    year: 2015,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Panasonic Lumix G Vario 14-42mm f/3.5-5.6 II ASPH MEGA OIS",
+                        Megapixels: 16
+                    },
+                    description: "An entry-level mirrorless camera with 4K video recording and creative controls.",
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZmKFWmsZh2lREBX9t6eCl1iVE85WDoIWxR3c71Vw3WlXuYfkqBrHftsVi_Mip8r0rpk&usqp=CAU"
+                }
+            ]
+        },
+        {
+            name: "Fujifilm",
+            models: [
+                {
+                    name: "Fujifilm X-T4",
+                    year: 2020,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Fujinon XF 18-55mm f/2.8-4 R LM OIS",
+                        Megapixels: 26
+                    },
+                    description: "A versatile mirrorless camera with in-body image stabilization and advanced video capabilities.",
+                    image:"https://www.photographyblog.com/uploads/entryImages/_1280xAUTO_crop_center-center_none/fujifilm_x_t4_review.jpg"
+                },
+                {
+                    name: "Fujifilm X100V",
+                    year: 2020,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Fujinon 23mm f/2",
+                        Megapixels: 26
+                    },
+                    description: "A premium compact camera with a fixed prime lens and classic design.",
+                    image:"https://i.pinimg.com/564x/62/cb/0c/62cb0c1f1e97a180ec8765784943e840.jpg"
+                },
+                {
+                    name: "Fujifilm GFX 100S",
+                    year: 2021,
+                    specs: {
+                        Storage: "256GB",
+                        Lens: "Fujinon GF 32-64mm f/4 R LM WR",
+                        Megapixels: 102
+                    },
+                    description: "A medium format mirrorless camera known for its high-resolution sensor and image quality.",
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv00AxNPeM1ljzVGV4cfXwSZIdUfPLeRj0h-vp8HRl_hsGftg90ROXLdO8FVIpeJUz2hY&usqp=CAU"
+                },
+                {
+                    name: "Fujifilm X-T30",
+                    year: 2019,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Fujinon XC 15-45mm f/3.5-5.6 OIS PZ",
+                        Megapixels: 26
+                    },
+                    description: "An entry-level mirrorless camera with a compact design and advanced features.",
+                    image:"https://gaffarbhaiandsons.com/wp-content/uploads/2021/11/XT30_9.png"
+                },
+                {
+                    name: "Fujifilm X-Pro3",
+                    year: 2019,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Fujinon XF 23mm f/2 R WR",
+                        Megapixels: 26
+                    },
+                    description: "A rangefinder-style mirrorless camera designed for street and documentary photography.",
+                    image:"https://gaffarbhaiandsons.com/wp-content/uploads/2021/11/Xpro3_7.png"
+                },
+                {
+                    name: "Fujifilm FinePix XP140",
+                    year: 2019,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Fujinon 5x Optical Zoom Lens",
+                        Megapixels: 16
+                    },
+                    description: "A rugged compact camera built for outdoor adventures with waterproof and shockproof features.",
+                    image:" https://www.photographyblog.com/imager/entryimages/78549/fujifilm_xp140_8c9cd6ffa9b02044a7a3327bc82c5649.jpg"
+                },
+                {
+                    name: "Fujifilm X-E4",
+                    year: 2021,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Fujinon XF 27mm f/2.8 R WR",
+                        Megapixels: 26
+                    },
+                    description: "A compact and lightweight mirrorless camera suitable for everyday photography.",
+                    image:"https://fujifilm-x.com/products-cameras-static/x-e4/assets/img/operability/sp-02_phsc.jpg"
+                },
+                {
+                    name: "Fujifilm GFX 50R",
+                    year: 2018,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Fujinon GF 63mm f/2.8 R WR",
+                        Megapixels: 51
+                    },
+                    description: "A medium format rangefinder-style camera offering high-resolution imaging in a compact form.",
+                    image:"https://photographylife.com/wp-content/uploads/2018/09/Fuji-GFX-50R-Front.jpg"
+                },
+                {
+                    name: "Fujifilm X-A7",
+                    year: 2019,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Fujinon XC 15-45mm f/3.5-5.6 OIS PZ",
+                        Megapixels: 24
+                    },
+                    description: "An entry-level mirrorless camera with a selfie-friendly LCD screen.".
+                    image:"https://detec.in/cdn/shop/products/7_1ed9d345-3fb2-456c-949f-0301d886b94a.png?v=1629366811"
+                },
+                {
+                    name: "Fujifilm FinePix S9900W",
+                    year: 2015,
+                    specs: {
+                        Storage: "16GB",
+                        Lens: "Fujinon 50x Optical Zoom Lens",
+                        Megapixels: 16
+                    },
+                    description: "A superzoom bridge camera with Wi-Fi connectivity for remote shooting.",
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYw64eMQh-2fePZAPBpYeoLuimDe-zv1O-IgT-01LYqiKQgzxYcXPV7kE1fdclKFT5Yk&usqp=CAU"
+                }
+            ]
+        },
+        {
+            name: "Olympus",
+            models: [
+                {
+                    name: "Olympus OM-D E-M1 Mark III",
+                    year: 2020,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Olympus M.Zuiko Digital ED 12-40mm f/2.8 PRO",
+                        Megapixels: 20
+                    },
+                    description: "A professional mirrorless camera known for its rugged build and advanced features."
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeiUezYE8yI12g_nKiaVwoL4Hz14SxSAT3oRnna6bPl_y2QNVLYvS5tmRBVR_NpC4BsK8&usqp=CAU"
+                },
+                {
+                    name: "Olympus PEN-F",
+                    year: 2016,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Olympus M.Zuiko Digital 17mm f/1.8",
+                        Megapixels: 20
+                    },
+                    description: "A stylish and compact mirrorless camera with a vintage design.",
+                    image:"https://1.img-dpreview.com/files/p/TS320x180~products/olympus_penf/shots/973e58f202694d6aae2e456fc27e34d1.png?v=5569"
+                },
+                {
+                    name: "Olympus Tough TG-6",
+                    year: 2019,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "4x Optical Zoom Lens",
+                        Megapixels: 12
+                    },
+                    description: "A rugged and waterproof compact camera built for outdoor adventures.",
+                    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7I2gb8h04BYbLR82eN-4z6xhNvPi4DSgKyfD1B4OZ-EZikhPnuJ-ofFgh3E0pigApTk&usqp=CAU"
+                },
+                {
+                    name: "Olympus OM-D E-M10 Mark IV",
+                    year: 2020,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Olympus M.Zuiko Digital ED 14-42mm f/3.5-5.6 EZ",
+                        Megapixels: 20
+                    },
+                    description: "An entry-level mirrorless camera with a compact design and versatile shooting modes.",
+                    image:"https://m.media-amazon.com/images/I/811YHMm7IyL.jpg"
+                },
+                {
+                    name: "Olympus Stylus 1s",
+                    year: 2015,
+                    specs: {
+                        Storage: "16GB",
+                        Lens: "10.7x Optical Zoom Lens",
+                        Megapixels: 12
+                    },
+                    description: "A bridge camera with a fixed zoom lens and advanced controls.",
+                    image:"https://www.thephoblographer.com/wp-content/uploads/2015/04/STYLUS1s-BLK.jpg"
+                },
+                {
+                    name: "Olympus OM-D E-M5 Mark III",
+                    year: 2019,
+                    specs: {
+                        Storage: "64GB",
+                        Lens: "Olympus M.Zuiko Digital ED 12-45mm f/4 PRO",
+                        Megapixels: 20
+                    },
+                    description: "A compact and weather-sealed mirrorless camera with 5-axis image stabilization.",
+                    image:"https://m.media-amazon.com/images/I/61QfXTsn4BL._AC_UF1000,1000_QL80_.jpg"
+                },
+                {
+                    name: "Olympus Stylus XZ-2",
+                    year: 2012,
+                    specs: {
+                        Storage: "8GB",
+                        Lens: "4x Optical Zoom Lens",
+                        Megapixels: 12
+                    },
+                    description: "An advanced compact camera with manual controls and a bright lens.",
+                    image:"https://m.media-amazon.com/images/I/81cunXUVx7L.jpg"
+
+                },
+                {
+                    name: "Olympus PEN E-PL10",
+                    year: 2019,
+                    specs: {
+                        Storage: "32GB",
+                        Lens: "Olympus M.Zuiko Digital 14-42mm f/3.5-5.6 EZ",
+                        Megapixels: 16
+                    },
+                    description: "A stylish and lightweight mirrorless camera suitable for everyday photography.",
+                    image:" https://m.media-amazon.com/images/I/71BRXs0tbUL.jpg"
+                },
+                {
+                    name: "Olympus Stylus Tough TG-870",
+                    year: 2015,
+                    specs: {
+                        Storage: "16GB",
+                        Lens: "5x Optical Zoom Lens",
+                        Megapixels: 16
+                    },
+                    description: "A rugged and waterproof compact camera for outdoor enthusiasts.",
+                    image:"https://www.photographyblog.com/imager/entryimages/72923/olympus_tg_870_review_8c9cd6ffa9b02044a7a3327bc82c5649.jpg"
+                },
+                {
+                    name: "Olympus OM-D E-M1X",
+                    year: 2019,
+                    specs: {
+                        Storage: "128GB",
+                        Lens: "Olympus M.Zuiko Digital ED 12-40mm f/2.8 PRO",
+                        Megapixels: 20
+                    },
+                    description: "A professional-grade mirrorless camera with dual image processors and enhanced durability.",
+                    image:"https://www.olympus-europa.com/company/media/content/news/cpd/190124_new_om_d_e_m1x_takes_professional_needs/5_e-m1x_0004_back_horizontal.jpg"
+                }
+            ]
+        }
+                           
+        
+        
+        
+    ]
+}

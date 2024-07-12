@@ -1,0 +1,634 @@
+{
+    companies:[
+        {
+            name: "Panasonic",
+            models: [
+                {
+                    name: "Panasonic NN-SN686S",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A sleek and compact microwave with advanced cooking options and inverter technology.",
+                    url: "https://images-cdn.ubuy.co.in/6491f08d721600184172a3e0-panasonic-nn-sn686s-1-2-cu-ft-1-200.jpg"
+                },
+                {
+                    name: "Panasonic NN-SD975S",
+                    year: 2020,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wattage: "1250W"
+                    },
+                    description: "A large and powerful microwave with sensor cooking and a spacious interior.",
+                    url: "https://m.media-amazon.com/images/S/aplus-media/vc/193e105e-4f16-4dfc-9e70-2b856c526ed4._CR0,0,1500,1500_PT0_SX300__.jpg"
+                },
+                {
+                    name: "Panasonic NN-SN966S",
+                    year: 2019,
+                    specs: {
+                        Capacity: "1.6 cu. ft.",
+                        Wattage: "1250W"
+                    },
+                    description: "A mid-sized microwave with inverter technology and a variety of presets.",
+                    url: "https://m.media-amazon.com/images/I/71SFQpnYoQL.jpg"
+                },
+                {
+                    name: "Panasonic NN-SD372S",
+                    year: 2018,
+                    specs: {
+                        Capacity: "0.8 cu. ft.",
+                        Wattage: "950W"
+                    },
+                    description: "A compact microwave suitable for small kitchens and dorm rooms.",
+                    url: "https://m.media-amazon.com/images/I/717VOPuMgJL._AC_UF894,1000_QL80_.jpg"
+                },
+                {
+                    name: "Panasonic NN-ST67KS",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.3 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A modern microwave with a stylish design and easy-to-use controls.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7b97i7UcblB3U-mgTfolmY9BHlvC48-aiXXsmlFEuCxSlyYERzTENpx6cZdQ9_-3k4X8&usqp=CAU"
+                },
+                {
+                    name: "Panasonic NN-SD67LS",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A versatile microwave with inverter technology and multiple power levels.",
+                    url: "https://manuals.plus/wp-content/uploads/2021/06/Panasonic-Microwave-Oven-Household-featured.png"
+                },
+                {
+                    name: "Panasonic NN-SN736B",
+                    year: 2019,
+                    specs: {
+                        Capacity: "1.6 cu. ft.",
+                        Wattage: "1250W"
+                    },
+                    description: "A family-sized microwave with sensor cooking and a black finish.",
+                    url: "https://shop.panasonic.com/cdn/shop/products/23-0091_MWO_shopPana_maincarousel_2048x2048_NN-SN736B_450x450.jpg?v=1692213201"
+                },
+                {
+                    name: "Panasonic NN-SU696S",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.3 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A compact and affordable microwave with a variety of cooking options.",
+                    url: "https://i5.walmartimages.com/seo/Panasonic-NN-SU696S-1-3-Cu-Ft-1100W-Countertop-Microwave-Oven-Genius-Sensor-Stainless-Steel_f802e6a1-5a7f-4251-b2c0-8dba069f9000_1.bc07353b74ee4fc551a2014c1e049909.jpeg"
+                },
+                {
+                    name: "Panasonic NN-SD975S",
+                    year: 2022,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wattage: "1250W"
+                    },
+                    description: "A spacious microwave with advanced sensor cooking and a stainless steel exterior.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKrC7irm6j6GR_Xuttk1SgE0fwMzjvbughbCkfbICNxbM-n2waGJKh-F8ddBGNCT-1L64&usqp=CAU"
+                },
+                {
+                    name: "Panasonic NN-SN686S",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A versatile microwave with inverter technology and a compact footprint.",
+                    url: "https://static.toiimg.com/thumb/resizemode-4,msid-93907713,imgsize-200,width-380/93907713.jpg"
+                }
+            ]
+        },
+        {
+            name: "Samsung",
+            models: [
+                {
+                    name: "Samsung MS11K3000AS",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.1 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A compact and efficient microwave with multiple cooking presets and a modern design.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/countertop/pdp/ms11k3000as/gallery/09_Microwave_Countertop_MS11K3000AS_Right-Perspective_Top_Silver.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "Samsung MS14K6000AS",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.4 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A mid-sized microwave with sensor cooking and a ceramic enamel interior.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/over-the-range/me19cb704112aa/gallery-image/ME19CB704112_01_White_Glass_SCOM.jpg?$recently-viewed-jpg$?$recently-viewed-jpg$"
+                },
+                {
+                    name: "Samsung MG11H2020CT",
+                    year: 2019,
+                    specs: {
+                        Capacity: "1.1 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A versatile microwave with a grilling element for crispy results.",
+                    url: "https://wwwassets.pricespider.com/product_static/450/9351/9351160.png"
+                },
+                {
+                    name: "Samsung MS19M8000AS",
+                    year: 2018,
+                    specs: {
+                        Capacity: "1.9 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A large and powerful microwave with a wide turntable and multiple cooking options.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/countertop/pdp/ms19m8000as/gallery/ms19m8000asaa-gallery1-0327.jpg"
+                },
+                {
+                    name: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/over-the-range/pdp/me16k3000as-aa/06_Microwave_OTR_ME16K3000AS_L-Perspective_Closed_Silver.jpg?$product-details-jpg$",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.6 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A sleek and modern microwave with easy-to-use touch controls.",
+                    url: ""
+                },
+                {
+                    name: "Samsung MS10T5018AC",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.0 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A compact microwave with eco mode and auto-cook presets.",
+                    url: "  https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5578/5578732cv13d.jpg"
+                },
+                {
+                    name: "Samsung MS12K6000AS",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A mid-sized microwave with sensor cooking and a stainless steel exterior.",
+                    url: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5578/5578732cv12d.jpg"
+                },
+                {
+                    name: "Samsung ME21K7010DS",
+                    year: 2019,
+                    specs: {
+                        Capacity: "2.1 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A large over-the-range microwave with powerful venting and LED cooktop lighting.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/over-the-range/pdp/me21k7010ds/gallery/01_Microwave_OTR_ME21K7010DS_Front-Light-On_Silver.jpg"
+                },
+                {
+                    name: "Samsung MS14K4000AS",
+                    year: 2017,
+                    specs: {
+                        Capacity: "1.4 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A versatile microwave with ceramic enamel interior and sensor cooking.",
+                    url: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5578/5578732cv12d.jpg"
+                },
+                {
+                    name: "Samsung ME18H704SFS",
+                    year: 2018,
+                    specs: {
+                        Capacity: "1.8 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "An over-the-range microwave with sensor cooking and a stylish design.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/over-the-range/pdp/me18h704sfs/gallery/08_Microwave_OTR_ME18H704SFS_R-Perspective-Open_Silver.jpg?$product-details-jpg$"
+                }
+            ]
+        },
+        {
+            name: "LG",
+            models: [
+                {
+                    name: "LG MS11K3000AS",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.1 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A compact and efficient microwave with multiple cooking presets and a modern design.",
+                    url: "https://www.nicepng.com/png/detail/75-755183_samsung-microwave-oven-png-image-samsung-ms11k3000as.png"
+                },
+                {
+                    name: "LG MS14K6000AS",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.4 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A mid-sized microwave with sensor cooking and a ceramic enamel interior.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/countertop/pdp/ms14k6000ag-1/gallery/09_Microwave_Countertop_MS14K6000AG_R-Perspective_Closed_Black.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "LG MG11H2020CT",
+                    year: 2019,
+                    specs: {
+                        Capacity: "1.1 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A versatile microwave with a grilling element for crispy results.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/countertop/pdp/mg11h2020ct-aa/gallery/07_Microwave_Countertop_MG11H2020CT_R-Perspective_Closed_Silver.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "LG MS19M8000AS",
+                    year: 2018,
+                    specs: {
+                        Capacity: "1.9 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A large and powerful microwave with a wide turntable and multiple cooking options.",
+                    url: "https://images-na.ssl-images-amazon.com/images/I/81dFTMJiERL._AC_UL200_SR200,200_.jpg"
+                },
+                {
+                    name: "LG ME16K3000AS",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.6 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A sleek and modern microwave with easy-to-use touch controls.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/over-the-range/pdp/me16k3000as-aa/06_Microwave_OTR_ME16K3000AS_L-Perspective_Closed_Silver.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "LG MS10T5018AC",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.0 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A compact microwave with eco mode and auto-cook presets.",
+                    url: "https://image-us.samsung.com/SamsungUS/pim/migration/feature/part23/ME16K3000AS_Front_Silver_3_ME16K3000AS_AA.png?$feature-benefit-png$"
+                },
+                {
+                    name: "LG MS12K6000AS",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A mid-sized microwave with sensor cooking and a stainless steel exterior.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/over-the-range/pdp/me16k3000as-aa/01_Microwave_OTR_ME16K3000AS_Front_Closed_Silver.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "LG ME21K7010DS",
+                    year: 2019,
+                    specs: {
+                        Capacity: "2.1 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A large over-the-range microwave with powerful venting and LED cooktop lighting.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/microwaves/over-the-range/pdp/me21k7010ds/gallery/08_Microwave_OTR_ME21K7010DS_R-Perspective_Silver.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "LG MS14K4000AS",
+                    year: 2017,
+                    specs: {
+                        Capacity: "1.4 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A versatile microwave with ceramic enamel interior and sensor cooking.",
+                    url: "https://image-us.samsung.com/SamsungUS/pim/migration/home-appliances/microwaves/over-the-range/me21k7010ds-aa/Pdpdefault-me21k7010ds-aa-600x600-C1-052016.png"
+                },
+                {
+                    name: "LG ME18H704SFS",
+                    year: 2018,
+                    specs: {
+                        Capacity: "1.8 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "An over-the-range microwave with sensor cooking and a stylish design.",
+                    url: "https://www.pngitem.com/pimgs/m/171-1717178_lg-microwave-oven-hd-png-download.png"
+                }
+            ]
+        },
+        {
+            name: "Whirlpool",
+            models: [
+                {
+                    name: "Whirlpool WMC20005YB",
+                    year: 2021,
+                    specs: {
+                        Capacity: "0.5 cu. ft.",
+                        Wattage: "750W"
+                    },
+                    description: "A compact and space-saving microwave suitable for small kitchens.",
+                    url: "https://images.webfronts.com/cache/frkzwefuwkus.png?imgeng=/w_500/h_500/m_letterbox_ffffff_100"
+                },
+                {
+                    name: "Whirlpool WMH31017HS",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.7 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "An over-the-range microwave with sensor cooking and powerful venting.",
+                    url: "https://assets.ajmadison.com/image/upload/c_limit,f_auto,fl_lossy.progressive,h_700,q_auto,w_1000/v1/ajmadison/images/large_no_watermark/p170033_1cz595e33ef58f4e_3f09f.jpeg"
+                },
+                {
+                    name: "Whirlpool WMC30516HZ",
+                    year: 2019,
+                    specs: {
+                        Capacity: "1.6 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A mid-sized microwave with a turntable and multiple cooking presets.",
+                    url: "https://images.thdstatic.com/productImages/8e134f88-0280-403a-b622-548287ef8747/svn/white-whirlpool-countertop-microwaves-wmc30516hw-64_1000.jpg"
+                },
+                {
+                    name: "Whirlpool WMC50522HZ",
+                    year: 2018,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A large countertop microwave with a spacious interior and a variety of cooking options.",
+                    url: "https://images.thdstatic.com/productImages/7973b8b0-52f1-43e3-9f5c-9012dd5b0251/svn/fingerprint-resistant-stainless-steel-whirlpool-countertop-microwaves-wmc50522hz-1f_600.jpg"
+                },
+                {
+                    name: "Whirlpool WMH53521H",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.9 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "An over-the-range microwave with sensor cooking and a stainless steel finish.",
+                    url: "https://manuals.plus/wp-content/uploads/2022/10/Whirlpool-WMH53521H-and-WMH54521H-Microwave-Hood-Combination-Featured-Image.png?ezimgfmt=rs:412x659/rscb1/ngcb1/notWebP"
+                },
+                {
+                    name: "Whirlpool WMC20005YW",
+                    year: 2021,
+                    specs: {
+                        Capacity: "0.5 cu. ft.",
+                        Wattage: "750W"
+                    },
+                    description: "A compact and energy-efficient microwave with simple controls.",
+                    url: "https://i.ebayimg.com/images/g/ZlEAAOSwnc5je8xv/s-l1200.webp"
+                },
+                {
+                    name: "Whirlpool WMC30516HB",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.6 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A mid-sized microwave with a sleek black finish and auto-cook options.",
+                    url: "https://images.webfronts.com/cache/frwkeflgcldh.png?imgeng=/w_220/h_220/m_letterbox_ffffff_100"
+                },
+                {
+                    name: "Whirlpool WMH32519HV",
+                    year: 2019,
+                    specs: {
+                        Capacity: "1.9 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "An over-the-range microwave with sensor cooking and a fingerprint-resistant exterior.",
+                    url: "https://www.nicepng.com/png/detail/121-1219178_image-for-whirlpool-microwave-oven.png"
+                },
+                {
+                    name: "Whirlpool WMC50522HB",
+                    year: 2018,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A large countertop microwave with a black finish and easy-to-clean interior.",
+                    url: "https://images.thdstatic.com/productImages/ce1c8edb-9af8-448a-96b8-868ee2be143f/svn/fingerprint-resistant-stainless-steel-whirlpool-countertop-microwaves-wmc50522hz-64_1000.jpg"
+                },
+                {
+                    name: "Whirlpool WMH53521HV",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.9 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "An over-the-range microwave with sensor cooking and a fingerprint-resistant finish.",
+                    url: "https://images-na.ssl-images-amazon.com/images/I/51pGJ%2BfoFbL._SS400_.jpg"
+                }
+            ]
+        },
+        {
+            name: "Sharp",
+            models: [
+                {
+                    name: "Sharp R-21LCFS",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.0 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A compact and reliable microwave with simple controls and a spacious interior.",
+                    url: "https://cdn11.bigcommerce.com/s-8vy557m296/images/stencil/original/products/138/2202/20_R21LCFS_RIGHTANGLE_WEB__57979.1604952103.JPG?c=2"
+                },
+                {
+                    name: "Sharp R-1874T",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.1 cu. ft.",
+                        Wattage: "850W"
+                    },
+                    description: "An over-the-range microwave with convection cooking and sensor settings.",
+                    url: "https://cdn11.bigcommerce.com/s-8vy557m296/images/stencil/original/products/132/2679/R1874_04_WEB__33701.1652456142.JPG?c=2"
+                },
+                {
+                    name: "Sharp R-331ZS",
+                    year: 2019,
+                    specs: {
+                        Capacity: "1.1 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A versatile microwave with auto defrost and multiple power levels.",
+                    url: "https://i5.walmartimages.com/asr/cf9944fc-db18-491d-851b-584e3a89f804_1.4e6f0d37be2b4301097168d04cee4be9.jpeg"
+                },
+                {
+                    name: "Sharp R-651ZS",
+                    year: 2018,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A large countertop microwave with sensor cooking and a sleek design.",
+                    url: "https://images-na.ssl-images-amazon.com/images/I/71lET36DyUL._AC_UL600_SR600,600_.jpg"
+                },
+                {
+                    name: "Sharp R-1875T",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.1 cu. ft.",
+                        Wattage: "850W"
+                    },
+                    description: "An over-the-range microwave with convection cooking and a stainless steel finish.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzK1rg8ihz910O_eRniQ-lLEQNzZbzKdG-i0o70zjl9tSJZof5KjxxfePpu6kzodrz4g&usqp=CAU"
+                },
+                {
+                    name: "Sharp R-21HT",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.0 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A compact and affordable microwave with easy-to-use controls.",
+                    url: "https://static-data2.manualslib.com/product-images/275/27418/2741799/200x200.jpg"
+                },
+                {
+                    name: "Sharp R-331ZW",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.1 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A mid-sized microwave with a white exterior and a turntable.",
+                    url: "https://i5.walmartimages.com/asr/3064ad80-e439-4acb-903f-db66a485309b_1.51f301be428cace67e3c39edea51155a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+                },
+                {
+                    name: "Sharp R-651YW",
+                    year: 2019,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wattage: "1200W"
+                    },
+                    description: "A large countertop microwave with a variety of cooking presets.",
+                    url: "https://img.favpng.com/11/18/0/microwave-oven-convection-microwave-convection-oven-barbecue-grill-png-favpng-bGVcbXMgMCG0V3uqYq8PAWqqQ_t.jpg"
+                },
+                {
+                    name: "Sharp R-1214",
+                    year: 2018,
+                    specs: {
+                        Capacity: "1.5 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "An over-the-range microwave with sensor cooking and a modern touch control panel.",
+                    url: "https://images.thdstatic.com/productImages/4e1588e2-12c1-4e4f-9068-117116d0db33/svn/stainless-steel-sharp-over-the-range-microwaves-r1214ty-64_1000.jpg"
+                },
+                {
+                    name: "Sharp R-21HT",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.0 cu. ft.",
+                        Wattage: "1000W"
+                    },
+                    description: "A compact and reliable microwave with a classic design and easy operation.",
+                    url: "https://static-data2.manualslib.com/product-images/275/27418/2741799/200x200.jpg"
+                }
+            ]
+        },
+        {
+            name: "Toshiba",
+            models: [
+                {
+                    name: "Toshiba EM131A5C-BS",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A compact and stylish microwave with easy-to-read digital display and sensor cooking.",
+                    url: "https://mobileimages.lowes.com/productimages/19888c09-5159-4858-9e84-3e185600f593/64934765.jpg?size=mpdhi"
+                },
+                {
+                    name: "Toshiba ML2-EM45P(BS)",
+                    year: 2020,
+                    specs: {
+                        Capacity: "1.6 cu. ft.",
+                        Wattage: "1250W"
+                    },
+                    description: "A mid-sized microwave with a turntable and multiple cooking presets.",
+                    url: "https://m.media-amazon.com/images/I/71HK4Vcf1GL.jpg"
+                },
+                {
+                    name: "Toshiba EM925A5A-SS",
+                    year: 2019,
+                    specs: {
+                        Capacity: "0.9 cu. ft.",
+                        Wattage: "900W"
+                    },
+                    description: "A compact microwave with a stainless steel exterior and easy-to-use controls.",
+                    url: "https://images-na.ssl-images-amazon.com/images/I/61r+y7ENK+L._AC_UL600_SR600,600_.jpg"
+                },
+                {
+                    name: "Toshiba ML-EM45P(BS)",
+                    year: 2018,
+                    specs: {
+                        Capacity: "1.6 cu. ft.",
+                        Wattage: "1250W"
+                    },
+                    description: "A versatile microwave with sensor cooking and a black stainless steel finish.",
+                    url: "https://m.media-amazon.com/images/I/71HK4Vcf1GL.jpg"
+                },
+                {
+                    name: "Toshiba EM131A5C-SS",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A compact and energy-efficient microwave with express cook options.",
+                    url: "https://images-cdn.ubuy.co.in/63644d230851010a6758df12-toshiba-em131a5c-bs-microwave-oven-with.jpg"
+                },
+                {
+                    name: "Toshiba EM131A5C-WH",
+                    year: 2021,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A compact and reliable microwave with a white finish and digital controls.",
+                    url: "https://uploads-ssl.webflow.com/5e8f5614a438dde426002a6e/5eda6cb7661a404265ac6074_toshiba-microwave-em131a5c-review-1-e1566936436653.png"
+                },
+                {
+                    name: "Toshiba EM720CB7-CHS",
+                    year: 2020,
+                    specs: {
+                        Capacity: "0.7 cu. ft.",
+                        Wattage: "700W"
+                    },
+                    description: "A small and affordable microwave suitable for dorm rooms and small kitchens.",
+                    url: "https://png.pngitem.com/pimgs/s/476-4767647_convection-microwave-oven-png-transparent-png.png"
+                },
+                {
+                    name: "Toshiba ML-EM34P(SS)",
+                    year: 2019,
+                    specs: {
+                        Capacity: "1.3 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A mid-sized microwave with a stainless steel exterior and quick cook presets.",
+                    url: "https://static-data2.manualslib.com/product-images/188/18772/1877158/raw.jpg"
+                },
+                {
+                    name: "Toshiba EM925A5A-BS",
+                    year: 2018,
+                    specs: {
+                        Capacity: "0.9 cu. ft.",
+                        Wattage: "900W"
+                    },
+                    description: "A compact and affordable microwave with easy-to-use mechanical controls.",
+                    url: "https://m.media-amazon.com/images/I/31uVF4NTmaL.jpg"
+                },
+                {
+                    name: "Toshiba EM131A5C-BW",
+                    year: 2022,
+                    specs: {
+                        Capacity: "1.2 cu. ft.",
+                        Wattage: "1100W"
+                    },
+                    description: "A compact and stylish microwave with a bright white finish and express cook options.",
+                    url: "https://mobileimages.lowes.com/productimages/21a91c88-1614-423e-bd61-587b35ac0157/15081501.jpg?size=pdhism"
+                }
+            ]
+        }      
+    ]
+}

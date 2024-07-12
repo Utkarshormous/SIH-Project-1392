@@ -1,0 +1,163 @@
+.content {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ewaste-locator {
+  height: 540px;
+  padding-right: 50px;
+}
+li:hover {
+  transform: scale(1.1);
+  transition: 300ms;
+  cursor: pointer;
+}
+h3 {
+  color: rgb(79, 183, 73);
+}
+h2 {
+  color: rgb(79, 183, 73);
+}
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.search-box {
+  background-color: #fff;
+  color: rgb(79, 183, 73);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  width: 70%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.search-button {
+  border-radius: 5px;
+  border: 2px solid rgb(79, 183, 73);
+  transition: 400ms;
+  background-color: rgb(225, 235, 225);
+  cursor: pointer;
+}
+
+.search-button:hover {
+  color: white;
+  background-color: rgb(79, 183, 73);
+  border: 2px solid white;
+  transform: scale(1.2);
+}
+
+.search-button {
+  padding: 10px 20px;
+  margin-left: 10px;
+}
+
+.results {
+  margin-top: 20px;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  order: 2;
+  width: 100%;
+}
+
+.results.show {
+  opacity: 1;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.location-item {
+  background-color: #fff;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: calc(30% - 20px);
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.location-item h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.location-item p {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.map-selection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  order: 1;
+  margin-top: 50px;
+  width: 40%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.gmap-frame {
+  width: 100%;
+  height: 400px;
+}
+
+.btn {
+  margin: 2px;
+  padding: 6px;
+  width: auto;
+  border-radius: 5px;
+  border: 2px solid rgb(79, 183, 73);
+  transition: 400ms;
+  background-color: rgb(225, 235, 225);
+  cursor: pointer;
+}
+.btn:hover {
+  color: white;
+  background-color: rgb(79, 183, 73);
+  border: 2px solid white;
+}

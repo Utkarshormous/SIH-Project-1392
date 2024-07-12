@@ -1,0 +1,529 @@
+{
+    companies:[
+        {
+            name: "Haier",
+            models: [
+                {
+                    name: "Haier Front-Load Washer HFW150SS",
+                    year: 2021,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 12
+                    },
+                    description: "A modern front-load washer with advanced washing options.",
+                    url: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6373/6373016_rd.jpg"
+                },
+                {
+                    name: "Haier Top-Load Washer HTW200SS",
+                    year: 2020,
+                    specs: {
+                        Capacity: "5.0 cu. ft.",
+                        Wash_cycles: 10
+                    },
+                    description: "A high-capacity top-load washer with energy-efficient operation.",
+                    url: "https://images-eu.ssl-images-amazon.com/images/I/71zA6y-pWtL._AC_UL600_SR600,600_.jpg"
+                },
+                {
+                    name: "Haier Front-Load Washer HFW120SS",
+                    year: 2019,
+                    specs: {
+                        Capacity: "4.2 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A reliable front-load washer known for its durability.",
+                    url: "https://s3.ap-south-1.amazonaws.com/brandbuddiez.com//23/img/product/34/495/HW80-IM12929CS32.jpg"
+                },
+                {
+                    name: "Haier Top-Load Washer HTW180SS",
+                    year: 2018,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A top-load washer with various wash options and a sleek design.",
+                    url: "https://5.imimg.com/data5/GLADMIN/Default/2021/11/SU/HJ/CR/80296245/haier-washing-machine-htw80-1159fl.png"
+                },
+                {
+                    name: "Haier Compact Washer HCW200SS",
+                    year: 2017,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 7
+                    },
+                    description: "A compact front-load washer suitable for small spaces.",
+                    url: "https://img.favpng.com/6/14/19/washing-machine-refrigerator-home-appliance-clothes-dryer-png-favpng-nzkUHGH9ETBhKh02AmyA3hTxY_t.jpg"
+                },
+                {
+                    name: "Haier Top-Load Washer HTW220SS",
+                    year: 2016,
+                    specs: {
+                        Capacity: "4.8 cu. ft.",
+                        Wash_cycles: 10
+                    },
+                    description: "A top-load washer known for its large capacity and ease of use.",
+                    url: "https://image.haier.com/in/washing-machines/W020200506841289270281.png"
+                },
+                {
+                    name: "Haier Front-Load Washer HFW180SS",
+                    year: 2015,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 14
+                    },
+                    description: "A high-capacity front-load washer with smart technology.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpd3AYCcmv09jbRAN98qypsV58IfyAV3Wtvg&usqp=CAU"
+                },
+                {
+                    name: "Haier Top-Load Washer HTW240SS",
+                    year: 2019,
+                    specs: {
+                        Capacity: "5.2 cu. ft.",
+                        Wash_cycles: 11
+                    },
+                    description: "A top-load washer with a variety of wash options and quick cycles.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMipWqGQmqYXYvdjiKz1RDbujuynsqp7HH7dueW1ycfEA20qYLUTLRyCm9x1OaW4udHM&usqp=CAU"
+                },
+                {
+                    name: "Haier Compact Washer HCW180SS",
+                    year: 2018,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A compact front-load washer with quiet operation.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxy7YnlkN_9nHeGbaS30HA-_zcs3mLrPdpoTWMc-O2qY7nA0YJCzNi7mXukLE55Rjlgxg&usqp=CAU"
+                },
+                {
+                    name: "Haier Top-Load Washer HTW260SS",
+                    year: 2020,
+                    specs: {
+                        Capacity: "4.9 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A top-load washer known for its ease of use and efficiency.",
+                    url: "https://m.media-amazon.com/images/I/21uTTkAM3pL.jpg"
+                }
+            ]
+        },
+        {
+            name: "Bosch",
+            models: [
+                {
+                    name: "Bosch Front-Load Washer WAT28400UC",
+                    year: 2021,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A compact front-load washer with energy-efficient operation.",
+                    url: "https://assets.nikshanonline.com/wp-content/uploads/2022/10/2-202.png"
+                },
+                {
+                    name: "Bosch Top-Load Washer WTG86402UC",
+                    year: 2020,
+                    specs: {
+                        Capacity: "4.0 cu. ft.",
+                        Wash_cycles: 10
+                    },
+                    description: "A top-load washer known for its durability and performance.",
+                    url: "https://5.imimg.com/data5/SELLER/Default/2021/1/RM/UI/TO/26041408/bosch-wtg86409in-7-kg-front-loading-condenser-tumble-dryer-silver-.jpg"
+                },
+                {
+                    name: "Bosch Front-Load Washer WAT28401UC",
+                    year: 2019,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 7
+                    },
+                    description: "A compact front-load washer suitable for small spaces.",
+                    url: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8808/8808225_sd.jpg"
+                },
+                {
+                    name: "Bosch Top-Load Washer WTG86403UC",
+                    year: 2018,
+                    specs: {
+                        Capacity: "4.0 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A top-load washer with various wash options and a sleek design.",
+                    url: "https://5.imimg.com/data5/SELLER/Default/2021/1/RM/UI/TO/26041408/bosch-wtg86409in-7-kg-front-loading-condenser-tumble-dryer-silver-.jpg"
+                },
+                {
+                    name: "Bosch Compact Washer WAW285H2UC",
+                    year: 2017,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A compact front-load washer with advanced washing features.",
+                    url: "https://pdbimg.choice.com.au/bosch-waw28440au_1.JPG"
+                },
+                {
+                    name: "Bosch Top-Load Washer WTG86404UC",
+                    year: 2016,
+                    specs: {
+                        Capacity: "4.0 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A top-load washer known for its large capacity and efficiency.",
+                    url: "https://5.imimg.com/data5/SELLER/Default/2021/9/RG/IO/EC/138046405/bosch-washing-machine-top-loader-7-kg-680-rpm-woe702w0in.png"
+                },
+                {
+                    name: "Bosch Front-Load Washer WAT28402UC",
+                    year: 2015,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 7
+                    },
+                    description: "A compact front-load washer with smart technology.",
+                    url: "https://m.media-amazon.com/images/I/51umAt9do3L.jpg"
+                },
+                {
+                    name: "Bosch Top-Load Washer WTG86405UC",
+                    year: 2019,
+                    specs: {
+                        Capacity: "4.0 cu. ft.",
+                        Wash_cycles: 10
+                    },
+                    description: "A top-load washer with a variety of wash options and quick cycles.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8Gevgm5aIbjgeoUZbHlsdp-egUWI1M8BzLZhVTTNEZjmLB8zTwmvcmY3_CWEkrISbK4&usqp=CAU"
+                },
+                {
+                    name: "Bosch Compact Washer WAW285H3UC",
+                    year: 2018,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A compact front-load washer with quiet operation.",
+                    url: "https://media3.bosch-home.com/Product_Shots/1200x675/MCSA01904108_WAW285H2_PGA3_def.jpg"
+                },
+                {
+                    name: "Bosch Top-Load Washer WTG86406UC",
+                    year: 2020,
+                    specs: {
+                        Capacity: "4.0 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A top-load washer known for its ease of use and efficiency.",
+                    url: "https://www.nicepng.com/png/detail/126-1260356_front-loader-washing-machine-png-download-image-bosch.png"
+                }
+            ]
+        },
+        {
+            name: "Samsung",
+            models: [
+                {
+                    name: "Samsung Front-Load Washer WF42H5000AW",
+                    year: 2019,
+                    specs: {
+                        Capacity: "4.2 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A high-efficiency front-load washer with multiple wash cycles.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/washers/front-load/pd/wf42h5000aw-a2/121917/11_Washer_FrontLoader_WF42H5000AW_L-Perspective_Closed_Pedestal_White.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "Samsung Top-Load Washer WA50R5400AW",
+                    year: 2020,
+                    specs: {
+                        Capacity: "5.0 cu. ft.",
+                        Wash_cycles: 12
+                    },
+                    description: "A top-load washer known for its large capacity and durability.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/washers/top-load/wa49b5105awus/gallery-image/WA49B5105AW_01_White_SCOM.jpg?$default-400-jpg$"
+                },
+                {
+                    name: "Samsung Front-Load Washer WF45K6200AZ",
+                    year: 2018,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 11
+                    },
+                    description: "An advanced front-load washer with smart features.",
+                    url: "https://image-us.samsung.com/SamsungUS/pim/migration/home-appliances/washers/front-load/wf45k6200az-a2/Pdpdefault-wf45k6200az-a2-600x600-C1-052016.jpg?$seo-twitter-card-jpg$"
+                },
+                {
+                    name: "Samsung Top-Load Washer WA45N3050AW",
+                    year: 2017,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A reliable top-load washer with various wash options.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/washers/top-load/pd/wa45n3050aw/gallery/WA45N3050AW-gallery_005.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "Samsung Compact Washer WW22K6800AW",
+                    year: 2020,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 7
+                    },
+                    description: "A compact front-load washer suitable for smaller spaces.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzB0JBbFbrppXpxSMJyrtbJoXhy_XgRubdPyJhpgrMudUDXP-T8AAu39awx82dsAy7tyQ&usqp=CAU"
+                },
+                {
+                    name: "Samsung Top-Load Washer WA52J8700AP",
+                    year: 2016,
+                    specs: {
+                        Capacity: "5.2 cu. ft.",
+                        Wash_cycles: 10
+                    },
+                    description: "A high-capacity top-load washer with advanced features.",
+                    url: "https://assets.ajmadison.com/image/upload/c_limit,f_auto,fl_lossy.progressive,h_1000,q_auto,w_1000/v1/ajmadison/images/large_no_watermark/wa52j8700a_angled_view.jpg"
+                },
+                {
+                    name: "Samsung Front-Load Washer WF50K7500AV",
+                    year: 2021,
+                    specs: {
+                        Capacity: "5.0 cu. ft.",
+                        Wash_cycles: 12
+                    },
+                    description: "An advanced front-load washer with a sleek design.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/washers/front-load/pd/wf50k7500av/12-4-17/07_Washer_FrontLoader_WF50K7500AV_Pair_Front_Closed_Pedestal_Black-disclaimer.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "Samsung Top-Load Washer WA48J7700AW",
+                    year: 2019,
+                    specs: {
+                        Capacity: "4.8 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A high-capacity top-load washer with user-friendly controls.",
+                    url: "https://assets.ajmadison.com/image/upload/c_limit,f_auto,fl_lossy.progressive,h_1000,q_auto,w_1000/v1/ajmadison/images/large_no_watermark/wa48j7700aw_angled_view.jpg"
+                },
+                {
+                    name: "Samsung Compact Washer WW22N6850QX",
+                    year: 2018,
+                    specs: {
+                        Capacity: "2.2 cu. ft.",
+                        Wash_cycles: 7
+                    },
+                    description: "A compact front-load washer with energy-efficient operation.",
+                    url: "https://image-us.samsung.com/SamsungUS/home/home-appliances/washer-and-dryer-sets/032021/WW22K6800AW_01_White_SCOM.jpg?$product-details-jpg$"
+                },
+                {
+                    name: "Samsung Top-Load Washer WA45K7600AW",
+                    year: 2017,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 11
+                    },
+                    description: "A reliable top-load washer with a variety of wash options.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwqZKPvP12Ts6zQgFo8zde7daarTFZ3vnJKZKeOpyqqZyMVfxrV9PodDvUAoTBc9xAAw&usqp=CAU"
+                }
+            ]
+        },
+        {
+            name: "Whirlpool",
+            models: [
+                {
+                    name: "Whirlpool Duet WFW94HEXW",
+                    year: 2019,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 12
+                    },
+                    description: "A high-efficiency front-load washer with multiple wash cycles and a spacious drum.",
+                    url: "https://assets.ajmadison.com/image/upload/c_limit,f_auto,fl_lossy.progressive,h_1000,q_auto,w_1000/v1/ajmadison/images/large_no_watermark/wfw94hexw_pair_15inch_74be8.jpg"
+                },
+                {
+                    name: "Whirlpool Cabrio WTW8500DC",
+                    year: 2018,
+                    specs: {
+                        Capacity: "5.3 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A top-load washer with a large capacity and advanced features.",
+                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6E-1nj3LRZrp7Neghw9kzcRa1G5lqgtgjZmpr_7BTP2wSx0OYHpI4p3cxS8WXKv5glfw&usqp=CAU"
+                },
+                {
+                    name: "Whirlpool Front-Load Washer WFW6620HC",
+                    year: 2020,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 10
+                    },
+                    description: "A modern front-load washer known for its efficiency and convenient features.",
+                    url: "https://5.imimg.com/data5/SELLER/Default/2022/7/LP/WO/NB/120160886/wfw6620hc-whirlpool-washing-machine-500x500.jpg"
+                },
+                {
+                    name: "Whirlpool Top-Load Washer WTW5000DW",
+                    year: 2017,
+                    specs: {
+                        Capacity: "4.3 cu. ft.",
+                        Wash_cycles: 12
+                    },
+                    description: "A reliable top-load washer with a variety of wash options.",
+                    url: "https://mobileimages.lowes.com/productimages/d5a4c732-4587-463e-95fc-694249080575/05381789.jpg?size=pdhism"
+                },
+                {
+                    name: "Whirlpool Compact Washer WFC8090GX",
+                    year: 2021,
+                    specs: {
+                        Capacity: "2.8 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A compact front-load washer suitable for small spaces and apartments.",
+                    url: "https://images.thdstatic.com/productImages/7ca85d3a-f9e1-4854-aed0-e269dd5091b8/svn/gray-whirlpool-electric-dryers-wfc8090gx-64_600.jpg"
+                },
+                {
+                    name: "Whirlpool Top-Load Washer WTW4850HW",
+                    year: 2019,
+                    specs: {
+                        Capacity: "3.8 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "An affordable top-load washer with straightforward operation.",
+                    url: "https://mobileimages.lowes.com/productimages/649c2893-3ea2-40f5-95ef-3881dd4a3c28/08883561.jpg?size=pdhism"
+                },
+                {
+                    name: "Whirlpool Front-Load Washer WFW5090GW",
+                    year: 2018,
+                    specs: {
+                        Capacity: "2.3 cu. ft.",
+                        Wash_cycles: 7
+                    },
+                    description: "A compact front-load washer designed for efficiency and space-saving.",
+                    url: "https://www.peterboroughappliances.com/files/image/attachment/7644/preview_WFW5090GW.jpg"
+                },
+                {
+                    name: "Whirlpool Top-Load Washer WTW5105HW",
+                    year: 2020,
+                    specs: {
+                        Capacity: "4.4 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A mid-range top-load washer with various wash programs.",
+                    url: "https://res.cloudinary.com/shared-furniture/image/upload/b_rgb:ffffff,c_pad,dpr_auto,f_auto,h_285,q_auto:low,w_400/c_pad,h_285,w_400/v1/products/WHL/WTW5105HW/images/3?pgw=1"
+                },
+                {
+                    name: "Whirlpool Front-Load Washer WFW6620HW",
+                    year: 2021,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 12
+                    },
+                    description: "A sleek front-load washer with advanced options for laundry care.",
+                    url: "https://www.nicepng.com/png/detail/274-2742127_image-for-whirlpool-whirlpool-front-load-washing-machine.png"
+                },
+                {
+                    name: "Whirlpool Top-Load Washer WTW4855HW",
+                    year: 2019,
+                    specs: {
+                        Capacity: "4.0 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A dependable top-load washer with a balanced performance.",
+                    url: "https://5.imimg.com/data5/SELLER/Default/2022/7/OR/QG/BV/120160886/wtw4855hw-whirlpool-top-load-washing-machine-500x500.jpg"
+                }
+            ]
+        },
+        {
+            name: "LG",
+            models: [
+                {
+                    name: "LG Front-Load Washer WM3500CW",
+                    year: 2020,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 12
+                    },
+                    description: "A high-efficiency front-load washer with multiple wash cycles and a spacious drum.",
+                    url: "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/c9f89abf-ee70-49d8-875a-8b46d5904d2b/md05981618-large01-jpg"
+                },
+                {
+                    name: "LG Top-Load Washer WT7100CW",
+                    year: 2019,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A top-load washer known for its large capacity and energy-efficient operation.",
+                    url: "https://www.lg.com/us/images/washers/md06030036/gallery/medium02.jpg"
+                },
+                {
+                    name: "LG Front-Load Washer WM9000HVA",
+                    year: 2018,
+                    specs: {
+                        Capacity: "5.2 cu. ft.",
+                        Wash_cycles: 14
+                    },
+                    description: "A premium front-load washer with a mega-capacity drum and advanced features.",
+                    url: "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/d8bd9ac2-990d-4de5-9330-1d8c00fa9995/md05230762-large03-jpg"
+                },
+                {
+                    name: "LG TwinWash Washer WM9500HKA",
+                    year: 2021,
+                    specs: {
+                        Capacity: "5.8 cu. ft. (total)",
+                        Wash_cycles: 16
+                    },
+                    description: "A front-load washer with a smaller second washer unit for dual washing capabilities.",
+                    url: "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/1f56a389-debe-42dd-870e-446e9f8e5ca2/md05773148-large04-jpg"
+                },
+                {
+                    name: "LG Compact Washer WM1388HW",
+                    year: 2017,
+                    specs: {
+                        Capacity: "2.3 cu. ft.",
+                        Wash_cycles: 9
+                    },
+                    description: "A compact front-load washer suitable for smaller spaces and apartments.",
+                    url: "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/1c62f148-6e8f-4d74-aea4-fdc23bedd88a/md05760577-Zoom-WM-jpg"
+                },
+                {
+                    name: "LG Top-Load Washer WT1501CW",
+                    year: 2016,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A top-load washer with a variety of wash cycles and a durable design.",
+                    url: "https://premierappliancestore.com/image/cache/data/FEBRUARY/MARCH/April/May/June/July/August/September/white-lg-electronics-smart-washers-dryers-wt1501cw-e1_1000-800x800.jpg"
+                },
+                {
+                    name: "LG Front-Load Washer WM3700HWA",
+                    year: 2020,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 12
+                    },
+                    description: "A versatile front-load washer with a large drum and smart technology.",
+                    url: "https://www.lg.com/us/images/washers/md05981656/gallery/medium05.jpg"
+                },
+                {
+                    name: "LG Top-Load Washer WTG86400UC",
+                    year: 2019,
+                    specs: {
+                        Capacity: "4.2 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A top-load washer designed for efficiency and ease of use.",
+                    url: "https://www.nicepng.com/png/detail/126-1261442_2-lg-twin-tub-washing-machine-wm-lg.png"
+                },
+                {
+                    name: "LG Front-Load Washer WM4370HKA",
+                    year: 2018,
+                    specs: {
+                        Capacity: "4.5 cu. ft.",
+                        Wash_cycles: 14
+                    },
+                    description: "A stylish front-load washer with a large capacity and advanced washing options.",
+                    url: "https://cdn.3dmodels.org/wp-content/uploads/LG/292_LG_Smart_Front_Load_Washer/LG_Smart_Front_Load_Washer_1000_0005.jpg"
+                },
+                {
+                    name: "LG Top-Load Washer WT7300CW",
+                    year: 2020,
+                    specs: {
+                        Capacity: "5.0 cu. ft.",
+                        Wash_cycles: 8
+                    },
+                    description: "A high-capacity top-load washer with a variety of wash cycles.",
+                    url: "https://www.westcoastappliance.ca/files/image/attachment/15546/preview_WT7300CW3.jpg"
+                }
+            ]
+        }        
+    ]
+}
